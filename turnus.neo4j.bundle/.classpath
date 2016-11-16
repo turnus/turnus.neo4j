@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="lib/concurrentlinkedhashmap-lru-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-core-3.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-consistency-check-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-csv-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-cypher-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-cypher-compiler-1.9-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-cypher-compiler-2.0-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-cypher-compiler-2.1-2.1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-cypher-compiler-2.2-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-graph-algo-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-graph-matching-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-io-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-jmx-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-kernel-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-lucene-index-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-primitive-collections-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-udc-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neo4j-unsafe-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opencsv-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/parboiled-core-1.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/parboiled-scala_2.10-1.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-library-2.10.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-reflect-2.10.5.jar"/>
+	<classpathentry kind="src" path="src/"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
